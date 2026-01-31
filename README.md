@@ -11,7 +11,7 @@ If you want to contact me, nothing here :)
 **Fun fact :**
 - I like both cats and dogs
 - I don't like fish or shrimp
-- **[crin](https://www.youtube.com/@realcrin)** is my favourite Youtuber
-- **Hobbies :** anime, hacking, watching Tech News
+- **[crin](https://www.youtube.com/@realcrin)** is my favourite Youtube Channel
+- **Hobbies :** anime, hacking, watching Tech News and tricking ChatGPT
 
 
