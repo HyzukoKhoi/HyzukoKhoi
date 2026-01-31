@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**HyzukoKhoi/HyzukoKhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's [Hyzuko](https://www.youtube.com/@HyzukoVn), a Front-End developer, Game Developer and also a Pentester who come from Vietnam 🇻🇳
 
-Here are some ideas to get you started:
+I like design and make my own project that I like
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use **Python** and **Godot** for making tools and games
+
+If you want to contact me, nothing here :)
+
+**Fun fact :**
+- I like both cats and dogs
+- I don't like fish or shrimp
+- **[crin](https://www.youtube.com/@realcrin)** is my favourite Youtuber
+- **Hobbies :** anime,hacking,watching Tech News
+
+
